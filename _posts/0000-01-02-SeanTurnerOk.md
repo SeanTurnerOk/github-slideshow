@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the second slide!"
 ---
-Your text
+Memes are bad for your teeth.
 Use the left arrow to go back!
